@@ -1,0 +1,108 @@
+/* a minimalist set of CSS resets */
+
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategrey;
+  color: white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h4:after {
+  font-family: verdana, arial, sans-serif;
+  content: attr(data-text);
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+}
+
+#button1:active, #button1.lit {
+  background: green;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.global/bcba7763-addb-4e38-be35-ec9bdde1d411/chrsmaf.png?v=1647916096022");
+
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button2:active, #button2.lit {
+  background: blue;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.global/bcba7763-addb-4e38-be35-ec9bdde1d411/chrsmaf.png?v=1647916096022");
+}
+
+#button3 {
+  background: pink;
+}
+
+#button3:active, #button3.lit {
+  background: red;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.global/bcba7763-addb-4e38-be35-ec9bdde1d411/chrsmaf.png?v=1647916096022");
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+#button4:active, #button4.lit {
+  background: yellow;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.global/bcba7763-addb-4e38-be35-ec9bdde1d411/chrsmaf.png?v=1647916096022");
+}
+
+#button5 {
+  background: lavender;
+}
+
+#button5:active, #button5.lit {
+  background: indigo;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.global/bcba7763-addb-4e38-be35-ec9bdde1d411/chrsmaf.png?v=1647916096022");
+}
+
+#button6 {
+  background: honeydew;
+}
+
+#button6:active, #button6.lit {
+  background: darkseagreen;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.global/bcba7763-addb-4e38-be35-ec9bdde1d411/chrsmaf.png?v=1647916096022");
+}
+
+.lostTry {
+  background: pink;
+}
+
+#try1:before, #try2:before, #try3:before, #try1.lit, #try2.lit, #try3.lit {
+  background: lightgreen;
+}
