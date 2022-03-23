@@ -18,5 +18,56 @@ This is a basic static HTML starter project you can build on however you like. N
 
 [Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
+<<<<<<< Updated upstream
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
 - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+=======
+The following **additional** features are implemented:
+
+- [x] List anything else that you can get done to improve the app!
+- [x] Number of tries remaining indicated with 3 buttons. Updated to reflect wrong choices.
+
+## Video Walkthrough (GIF)
+
+If you recorded multiple GIFs for all the implemented features, you can add them here:
+![](gif1-link-here)
+![](gif2-link-here)
+![](gif3-link-here)
+![](gif4-link-here)
+
+## Reflection Questions
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+[YOUR ANSWER HERE]
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+[YOUR ANSWER HERE]
+
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+[YOUR ANSWER HERE]
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+[YOUR ANSWER HERE]
+
+
+
+## Interview Recording URL Link
+
+[My 5-minute Interview Recording](your-link-here)
+
+
+## License
+
+    Copyright [FRANCISCO RODRIGUEZ SANTANA]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+>>>>>>> Stashed changes
