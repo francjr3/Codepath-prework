@@ -52,9 +52,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 W3schools, geeksforgeeks, mozilla, and youtube were the main resources I referred to whenever I did not understand something. Besides that, I used an image from the video game franchise Fallout to spruce up my buttons with a background image.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 While creating my submission, I struggled to understand how each language interacts with one another, how output is delayed, and how to achieve specific formats/appearances.
 
 I have not done many projects with multiple languages so I naturally did not understand how each file is connected. After some research, I concluded that HTML is a skeleton of the website, CSS spruces up the display, and javascript ties the web components together to reflect appropriate changes in response to user interactions. This understanding helped me connect some concepts that I have learned in other languages such as classes and action event listeners in java to understand how the files work together. For any remaining component that did not make sense to me, I used console log to see when specific functions are called in relation to one another.
@@ -64,7 +66,8 @@ Later, when implementing a countdown timer, I was confused when the pattern sequ
 Lastly, when doing the optional features, I often struggled with formatting in CSS. Things like changing button background, image properties, and updating displays were tricky for me. Referring to online resources often gave me countless different methods to achieve the same styling so it was difficult to choose which method to implement. I often decided by trying to understand the intricacies of each method to see which was best suited for my situation when doing things like, centering an image on a button and changing the text in the display. I could still work on which formatting methods I use but I think choosing optimal methods will become more clear as I learn the language more.
 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+
 After finishing my submission, I was fascinated by how fairly easy it is to create a simple webpage and display things; I do not have much experience seeing my code translated to such a visual form. As such, I would like to know how web developers make clean websites. Are there modules/APIs that facilitate the process or are most websites made from scratch? I noticed that there are many approaches to style websites, what criteria are used when selecting a styling method? When working in teams, what practices are done to make sure that website styling and formatting stays consistent and doesn't degenerate?
 
 I would also like to learn more about what steps and factors must be considered to make a website available online. I would assume there might be a third party that must be used to put a website online. How is user information stored and processed? Specifically, in the context of accounts, how is user information and passwords protected on these websites? 
@@ -75,6 +78,7 @@ Nonetheless, the project has interested me in making more websites and I would l
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had more time to work on this project, I would likely spend it trying to make it more visually appealing. Perhaps I could even make it more accessible and change the button colors to take into account color blindness. I particularly felt like the win and lose alert could have been more visually appealing; a distinct display such as confetti for a win or an auditory queue of a sad trombone could be played for a loss.
 
 I also realized that some people may not like the added difficulty of a countdown timer after implementing it. I could make a settings button to allow the user to modify the difficulty to their preference (e.g. make the countdown timer optional, allow the user to choose the number of tries, etc).
